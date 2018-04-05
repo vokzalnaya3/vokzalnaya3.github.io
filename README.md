@@ -1,0 +1,1 @@
+this readme about sources of site for NSK, hosted on github pages, for vokzalnaya magistral, building 3
